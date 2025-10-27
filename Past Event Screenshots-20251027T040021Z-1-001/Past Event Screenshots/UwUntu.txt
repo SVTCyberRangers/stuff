@@ -1,0 +1,11 @@
+forensics question 1: extracted the image using cyberchef, ip address was in the first line
+forensics question 2: needed extents, ran filefrag -v
+forensics question 4: it was steganography, used steganography online
+ran all the updates
+removed users and did passwords, set all to Cyb3rPatr!0t$
+set the ports correctly
+removed software
+root password was blank
+gave sowens a maximum pass age
+disabled ssh x11 forwarding
+set password policy with libpam-cracklib
